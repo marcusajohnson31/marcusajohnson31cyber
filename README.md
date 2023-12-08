@@ -4,6 +4,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2> - Certifications</h2>
+
+-CC ISC2 Self-Paced Training
+-CyberSecurity Asset Management (Qualys)
+-(CSAM) Self Paced Training (Qualys)
+-Patch Management - Self Paced Training (Qualys)
+-Reporting Strategies and Best Practices Self Paced Training (Qualys)
+-Scanning Strategies and Best Practices Self-Paced Training (Qualys)
+-Vulnerability Management Detection and Response (VMDR) -Self Paced Training (Qualys)
+-Intro to Vulnerability Management Security Blue Team Course
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
