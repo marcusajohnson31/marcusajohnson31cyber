@@ -8,11 +8,11 @@
 
 -CC ISC2 Self-Paced Training
 -CyberSecurity Asset Management (Qualys)
--(CSAM) Self Paced Training (Qualys)
--Patch Management Self Paced Training (Qualys)
--Reporting Strategies and Best Practices Self Paced Training (Qualys)
--Scanning Strategies and Best Practices Self-Paced Training (Qualys)
--Vulnerability Management Detection and Response (VMDR) Self Paced Training (Qualys)
+-(CSAM) Training (Qualys)
+-Patch Management Training (Qualys)
+-Reporting Strategies and Best Practices Qualys)
+-Scanning Strategies and Best Practices (Qualys)
+-Vulnerability Management Detection and Response (VMDR) (Qualys)
 -Intro to Vulnerability Management Security Blue Team Course
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
