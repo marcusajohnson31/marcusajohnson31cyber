@@ -7,12 +7,19 @@
 <h2> - Certifications</h2>
 
 -CC ISC2 Self-Paced Training
+
 -CyberSecurity Asset Management (Qualys)
+
 -(CSAM) Training (Qualys)
+
 -Patch Management Training (Qualys)
+
 -Reporting Strategies and Best Practices Qualys)
+
 -Scanning Strategies and Best Practices (Qualys)
+
 -Vulnerability Management Detection and Response (VMDR) (Qualys)
+
 -Intro to Vulnerability Management Security Blue Team Course
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
