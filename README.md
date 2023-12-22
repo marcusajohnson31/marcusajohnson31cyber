@@ -25,14 +25,12 @@
 -Intro to Vulnerability Management Security Blue Team Course
 
 - <b>Python</b>
-  - [Basic Knowledge Still Studying]
+  - Basic Knowledge Still Studying
 
 
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="MarcusJohnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/marcus-johnson-a228baba/
 
 
 
